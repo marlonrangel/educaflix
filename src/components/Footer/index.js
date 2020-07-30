@@ -15,11 +15,7 @@ function Footer() {
           Alura
         </a>
       </p>
-      <p>
-        <i>
-          by Marlon Rangel
-        </i>
-      </p>
+      
     </FooterBase>
   );
 }
