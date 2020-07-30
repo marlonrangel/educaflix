@@ -1,0 +1,410 @@
+{
+  "categorias": [
+    {
+      "titulo": "Gramática e Interpretação      ",
+      "link": "#",
+      "cor": "rgb(0 177 255)",
+      "link_extra": {
+        "text": "+",
+        "url": "#"
+      },
+      "videos": [
+        {
+          "titulo": "Linguagem Verbal e Não Verbal",
+          "url": "https://www.youtube.com/watch?v=EReo8F6XkEI"
+        },
+        {
+          "titulo": "GÊNEROS TEXTUAIS x TIPOS TEXTUAIS: QUAL A DIFERENÇA? - Aula 1 - Texto - Profa. Pamba",
+          "url": "https://www.youtube.com/watch?v=J-MOSikttwo"
+        },
+        {
+          "titulo": "Pronomes Interrogativos - Brasil Escola",
+          "url": "https://www.youtube.com/watch?v=wTHTR2l_WTM"
+        },
+        {
+          "titulo": "Pronomes - Parte 1 [Prof Noslen]",
+          "url": "https://www.youtube.com/watch?v=PQRdgiIutrE"
+        },
+        
+        {
+          "titulo": "Uso dos PORQUÊS (MACETE)",
+          "url": "https://www.youtube.com/watch?v=qwB-bpMc4Zg"
+        },
+        {
+          "titulo": "PRONOMES RELATIVOS | TUDO SOBRE QUE, QUEM, ONDE, CUJO, O QUAL",
+          "url": "https://www.youtube.com/watch?v=70dyjrhTRKk"
+        },
+        {
+          "titulo": "Pronomes indefinidos [Prof. Alda]",
+          "url": "https://www.youtube.com/watch?v=p29VHfATvKQ"
+        },
+        {
+          "titulo": "ESTE OU ESSE: USE CORRETAMENTE",
+          "url": "https://www.youtube.com/watch?v=LHaMe1qy06A"
+        },
+        {
+          "titulo": "Anáfora x Catáfora [Prof. Noslen]",
+          "url": "https://www.youtube.com/watch?v=iIQU2sb8GZU"
+        },
+        {
+          "titulo": "Pronomes Possessivos - Brasil Escola",
+          "url": "https://www.youtube.com/watch?v=GLitBplft0k"
+        },
+        {
+          "titulo": "Pronomes de Tratamento [Prof. Alda]",
+          "url": "https://www.youtube.com/watch?v=X_dJuKfJqkg"
+        },
+        {
+          "titulo": "PRONOME - o que é? - Pronome Adjetivo e Pronome Substantivo I Português On-line",
+          "url": "https://www.youtube.com/watch?v=VUhGxCthJOI"
+        }       
+      ]
+    },
+    {
+      "titulo": "Redação",
+      "cor": "rgb(0 177 255)",
+      "link_extra": {
+        "text": "+",
+        "url": "#"
+      },
+      "videos": [
+        {
+          "titulo": "TEMAS PARA A REDAÇÃO DO ENEM 2020! (Débora Aladim)",
+          "url": "https://www.youtube.com/watch?v=cQpY6GQe2a4"
+        },
+        {
+          "titulo": "ESTRUTURA DO PARÁGRAFO NA REDAÇÃO - Profa. Pamba",
+          "url": "https://www.youtube.com/watch?v=1IdtThGO3nM"
+        },
+        {
+          "titulo": "ENEM 2020 - Redação: A estrutura da redação.",
+          "url": "https://www.youtube.com/watch?v=UA32zOELnjE"
+        },
+        {
+          "titulo": "USO DA VÍRGULA: DICAS RÁPIDAS",
+          "url": "https://www.youtube.com/watch?v=kTJ0_upUzrc"
+        }
+      ]
+    },
+    {
+      "titulo": "História Geral I",
+      "cor": "rgb(0 177 255)",
+      "link_extra": {
+        "text": "+",
+        "url": "#"
+      },
+      "videos": [
+        {
+          "titulo": "07/05 - AULA 1 - HISTÓRIA",
+          "url": "https://www.youtube.com/watch?v=czCtuYB_dQE"
+        },
+        {
+          "titulo": "30/04 - AULA 3 - HISTÓRIA",
+          "url": "https://www.youtube.com/watch?v=-bOzV-OaZB4"
+        },
+        {
+          "titulo": "23/04 - AULA 2 - HISTÓRIA",
+          "url": "https://www.youtube.com/watch?v=_tfbqoc2AjQ"
+        },
+        {
+          "titulo": "16/04 - AULA 3 - HISTÓRIA GERAL",
+          "url": "https://www.youtube.com/watch?v=_IxVz1XV6B8"
+        },
+        {
+          "titulo": "09/04 - AULA 1 - HISTÓRIA",
+          "url": "https://www.youtube.com/watch?v=Ey7QqswX3Qk"
+        },
+        {
+          "titulo": "02/04 - AULA 1 - ROARIS",
+          "url": "https://www.youtube.com/watch?v=to3U0WrRm4k"
+        },{
+          "titulo": "27/03 - AULA 1 - HISTÓRIA GERAL",
+          "url": "https://www.youtube.com/watch?v=F6npNzWhYYI"
+        },
+        {
+          "titulo": "20/03 - AULA 1 - HISTÓRIA GERAL",
+          "url": "https://www.youtube.com/watch?v=whySe2gsVfk"
+        }
+      ]
+    },
+    {
+      "titulo": "História Geral II",
+      "cor": "rgb(0 177 255)",
+      "link_extra": {
+        "text": "+",
+        "url": "#"
+      },
+      "videos": [
+        {
+          "titulo": "04/06 - AULA 1 - HISTÓRIA",
+          "url": "https://www.youtube.com/watch?v=UNbi_6ZuNUM"
+        },
+        {
+          "titulo": "28/05 - AULA 1 - HISTÓRIA",
+          "url": "https://www.youtube.com/watch?v=F9OD6-dBBNQ"
+        },
+        {
+          "titulo": "21/05 - AULA 1 - HISTÓRIA",
+          "url": "https://www.youtube.com/watch?v=k0rMWzrTvAo"
+        },
+        {
+          "titulo": "14/05 - AULA 3 - HISTÓRIA",
+          "url": "https://www.youtube.com/watch?v=eKYhk4Z0okU"
+        }
+      ]
+    },
+    {
+      "titulo": "Geografia Física",
+      "cor": "rgb(0 177 255)",
+      "videos": [
+        {
+          "titulo": "Geografia Física - A Estrutura Interna da Terra (Vagner Figueiredo)",
+          "url": "https://www.youtube.com/watch?v=IgZ1ZTZHcyM&list=PLkYjUVetwqDXgFYW0u4X-73aIHo_47GKD"
+        },
+        {
+          "titulo": "Geografia Física - Tectonismo e Movimentos Orogênicos (Professor Vagner Figueiredo)",
+          "url": "https://www.youtube.com/watch?v=NbluBIc3iSs&list=PLkYjUVetwqDXgFYW0u4X-73aIHo_47GKD&index=2"
+        }
+        ,
+        {
+          "titulo": "Geografia Física - Vulcanismo e Abalos Sísmicos (Professor Vagner Figueiredo)",
+          "url": "https://www.youtube.com/watch?v=QYJ8BqbGwQY&list=PLkYjUVetwqDXgFYW0u4X-73aIHo_47GKD&index=3"
+        }
+        ,
+        {
+          "titulo": "Geografia Física - Vulcanismo e Abalos Sísmicos (Professor Vagner Figueiredo)",
+          "url": "https://www.youtube.com/watch?v=nUCIo1UZuOM&list=PLkYjUVetwqDXgFYW0u4X-73aIHo_47GKD&index=4"
+        }
+      ]
+    },
+    {
+      "titulo": "Físico-Quimica",
+      "cor": "rgb(0 177 255)",
+      "link_extra": {
+        "text": "+",
+        "url": "#"
+      },
+      "videos": [
+        {
+          "titulo": "Físico-Química I - Aula 01 - Introdução à Físico-Química e Propriedades dos Gases",
+          "url": "https://www.youtube.com/watch?v=VNtsx0b3lDo"
+        },
+        {
+          "titulo": "Físico-Química I - Aula 02 - Equações de Estado e Modelo do Gás Ideal",
+          "url": "https://www.youtube.com/watch?v=0TmR437tr0k&list=PLxI8Can9yAHdHkbSPYe4rHWJowtWadyEI&index=2"
+        },
+        {
+          "titulo": "Físico-Química I - Aula 03 - Interações Moleculares e Compressibilidade",
+          "url": "https://www.youtube.com/watch?v=cJgAiAq4Iug&list=PLxI8Can9yAHdHkbSPYe4rHWJowtWadyEI&index=3"
+        },
+        {
+          "titulo": "Físico-Química I - Aula 04 - Modelos para Gases Reais",
+          "url": "https://www.youtube.com/watch?v=p7sBgGz4VKM&list=PLxI8Can9yAHdHkbSPYe4rHWJowtWadyEI&index=4"
+        }
+      ]
+    },
+    {
+      "titulo": "Geografia do Brasil",
+      "cor": "rgb(0 177 255)",
+      "link_extra": {
+        "text": "+",
+        "url": "#"
+      },
+      "videos": [
+        {
+          "titulo": "GEOGRAFIA /Brasil- Aula 05 (Diversiidade da população brasileira)-ENEM",
+          "url": "https://www.youtube.com/watch?v=9oiqSoLvXc4"
+        },
+        {
+          "titulo": "GEOGRAFIA /Brasil- Aula 04 (Distribuição e crescimento da população brasileira)-ENEM",
+          "url": "https://www.youtube.com/watch?v=CpVaN-piyd8"
+        },
+        {
+          "titulo": "GEOGRAFIA /Brasil- Aula 03 ( Regionalização do território)-ENEM",
+          "url": "https://www.youtube.com/watch?v=aZEDVEdyoZY"
+        },
+        {
+          "titulo": "Geografia/ Brasil - Aula 02 (Expansão do território brasileiro )-ENEM",
+          "url": "https://www.youtube.com/watch?v=q8RxZfODhqM"
+        },
+        {
+          "titulo": "GEOGRAFIA /Brasil - Aula 01 (Formação do território brasileiro ) - ENEM",
+          "url": "https://www.youtube.com/watch?v=f58EJTpO8vw"
+        }
+      ]
+    },
+    {
+      "titulo": "História do Brasil",
+      "cor": "rgb(0 177 255)",
+      "link_extra": {
+        "text": "+",
+        "url": "#"
+      },
+      "videos": [
+        {
+          "titulo": "Colonização - Pré Enem",
+          "url": "https://www.youtube.com/watch?v=1UzZnEjQT-M"
+        },
+        {
+          "titulo": "Aula 01 - História do Brasil - A Revolução de Avis",
+          "url": "https://www.youtube.com/watch?v=vJZgBWcuc7E"
+        },
+        {
+          "titulo": "HISTÓRIA DO BRASIL - ENEM ",
+          "url": "https://www.youtube.com/watch?v=XY4rMnIAuW0&list=PLQiVn_7RoYKVzeOJ7m7yYYUSGc41ZKnK3&index=2"
+        }
+        
+      ]
+    },
+    {
+      "titulo": "Matemática",
+      "cor": "rgb(0 177 255)",
+      "link_extra": {
+        "text": "+",
+        "url": "#"
+      },
+      "videos": [
+        {
+          "titulo": "Geometria - Número de diagonais de um polígono, uma fórmula recursiva ",
+          "url": "https://www.youtube.com/watch?v=3s4Kg6i7BLQ"
+        },
+        {
+          "titulo": "Geometria - Número de diagonais de um polígono de n lados",
+          "url": "https://www.youtube.com/watch?v=pw5T-H3CoFE"
+        },
+        {
+          "titulo": "Geometria - Classificação de triângulos",
+          "url": "https://www.youtube.com/watch?v=EBAlFclTEWs"
+        },
+        {
+          "titulo": "Geometria - Soma dos ângulos internos de um triângulo",
+          "url": "https://www.youtube.com/watch?v=jcrOdKYrUlI"
+        }
+      ]
+    },
+    {
+      "titulo": "English",
+      "cor": "rgb(0 177 255)",
+      "link_extra": {
+        "text": "+",
+        "url": "#"
+      },
+      "videos": [
+        {
+          "titulo": "Inglês - Aula 04 - Conjunction",
+          "url": "https://www.youtube.com/watch?v=Riud58F2nug&list=PL-5888xShjYqWt8zTIpbbomAWuLcubFiR&index=5"
+        },{
+          "titulo": "nglês - Aula 03 - Active and passive voice",
+          "url": "https://www.youtube.com/watch?v=57KobCg2_n0&list=PL-5888xShjYqWt8zTIpbbomAWuLcubFiR&index=4"
+        },{
+          "titulo": "Inglês - Aula 02 - Verb Tense Review",
+          "url": "https://www.youtube.com/watch?v=TrQNzP60UQc&list=PL-5888xShjYqWt8zTIpbbomAWuLcubFiR&index=3"
+        },
+        {
+          "titulo": "Inglês - Aula 01 - Pronouns",
+          "url": "https://www.youtube.com/watch?v=T5n-k6tMGLI&list=PL-5888xShjYqWt8zTIpbbomAWuLcubFiR&index=2"
+        }
+      ]
+    },
+    {
+      "titulo": "Química Geral",
+      "cor": "rgb(0 177 255)",
+      "link_extra": {
+        "text": "+",
+        "url": "#"
+      },
+      "videos": [
+        {
+          "titulo": "Tudo se Transforma, História da Química, Tabela Periódica",
+          "url": "https://www.youtube.com/watch?v=hvRnuMrDc14"
+        },
+        {
+          "titulo": "5 A Matéria Prima do Mundo",
+          "url": "https://www.youtube.com/watch?v=Bxcl-d5TzBY"
+        },
+        {
+          "titulo": "Aula educal - Química geral - 28/04/2020",
+          "url": "https://www.youtube.com/watch?v=BTjBGklUE7U"
+        }
+      ]
+    },
+    {
+      "titulo": "Física",
+      "cor": "rgb(0 177 255)",
+      "link_extra": {
+        "text": "+",
+        "url": "#"
+      },
+      "videos": [
+        {
+          "titulo": "Física | ENEM - Sistema Internacional de Unidades, Notação Científica e Ordem de Grandeza",
+          "url": "https://www.youtube.com/watch?v=WxvaeW9MgkA&list=PL8vXuI6zmpdiG6QR-LpXXbUYzPz5rOhF2&index=1"
+        },
+        {
+          "titulo": "Cinemática vetorial",
+          "url": "https://www.youtube.com/watch?v=motsq_UU9Hw"
+        },
+        {
+          "titulo": "AULA 1 Inercia e MRU",
+          "url": "https://www.youtube.com/watch?v=znc56Tf_024"
+        },
+        {
+          "titulo": "MRUV - Introdução",
+          "url": "https://www.youtube.com/watch?v=1gG_5XpiKUg"
+        }
+      ]
+    },
+    {
+      "titulo": "Literatura",
+      "cor": "rgb(0 177 255)",
+      "link_extra": {
+        "text": "+",
+        "url": "#"
+      },
+      "videos": [
+        {
+          "titulo": "Literatura | ENEM - Narrativa",
+          "url": "https://www.youtube.com/watch?v=vhDAsT7MWeE&list=PL8vXuI6zmpdhWCEOQKTf8tEM568D_-PHt&index=4"
+        },
+        {
+          "titulo": "Literatura | ENEM - Figuras de Linguagem II ",
+          "url": "https://www.youtube.com/watch?v=HD8vDHKi9rI&list=PL8vXuI6zmpdhWCEOQKTf8tEM568D_-PHt&index=3"
+        },
+        {
+          "titulo": "Literatura | ENEM - Figuras de Linguagem ",
+          "url": "https://www.youtube.com/watch?v=z_vSZH1I7KY&list=PL8vXuI6zmpdhWCEOQKTf8tEM568D_-PHt&index=2"
+        },
+        {
+          "titulo": "Literatura | ENEM - Introdução a Literatura",
+          "url": "https://www.youtube.com/watch?v=hCzHFQtevF0&list=PL8vXuI6zmpdhWCEOQKTf8tEM568D_-PHt"
+        }
+      ]
+    },
+    {
+      "titulo": "Lengua Española",
+      "cor": "rgb(0 177 255)",
+      "link_extra": {
+        "text": "+",
+        "url": "#"
+      },
+      "videos": [
+        {
+          "titulo": "LÍNGUA ESPANHOLA – Análise e Interpretação de Músicas e Poemas ENEM",
+          "url": "https://www.youtube.com/watch?v=PBCgWAYdeiU&list=PLEjz9losBoODgQ9_Syuk-SsBQNEhHZrh6&index=3"
+        },
+        {
+          "titulo": "LÍNGUA ESPANHOLA – Leitura e Interpretação de Charges e Tirinhas ENEM",
+          "url": "https://www.youtube.com/watch?v=JGygQBPQXIQ&list=PLEjz9losBoODgQ9_Syuk-SsBQNEhHZrh6&index=2"
+        },
+        {
+          "titulo": "O QUE MAIS CAI DE ESPANHOL O ENEM? ★ Spoiler do Enem",
+          "url": "https://www.youtube.com/watch?v=v5AcQkuYf5A"
+        },
+        {
+          "titulo": "LÍNGUA ESPANHOLA – Compreensão e Interpretação Textual ENEM",
+          "url": "https://www.youtube.com/watch?v=4hSLNq18IdY&list=PLEjz9losBoODgQ9_Syuk-SsBQNEhHZrh6"
+        }
+      ]
+    }
+  ]
+}
