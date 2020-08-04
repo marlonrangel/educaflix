@@ -5,9 +5,9 @@ import Home from './pages/Home';
 import { BrowserRouter, Switch, Route } from 'react-router-dom';
 import CadastroVideo from './pages/cadastro/Video';
 import CadastroCategoria from './pages/cadastro/Categoria';
+//Desafio
+import Pagina404 from './pages/404'
 
-//Desafio master blaster 
-const Pagina404 = () => (<div>Página 404</div>)
 
 
 
