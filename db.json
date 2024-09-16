@@ -2,13 +2,13 @@
     "categorias":[
         {
             "id": 1,
-            "nome": "Frond End",
+            "nome": "Português",
             "descricao": "Uma categoria bacana",
             "cor": "#cbd1ff"
         },
         {
             "id": 2,
-            "nome": "Back end",
+            "nome": "Matemática",
             "descricao": "Uma categoria bacana",
             "cor": "#cbd1ff"
         }
